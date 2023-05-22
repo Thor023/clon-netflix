@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "proyecto-energy"
+  },
+  "targets": {},
+  "etags": {
+    "proyecto-energy": {
+      "extensionInstances": {}
+    }
+  }
+}
